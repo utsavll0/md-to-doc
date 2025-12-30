@@ -31,3 +31,5 @@ Simply open the notebook and execute cells top-to-bottom.
 ## Output
 
 A new Google Doc containing the formatted meeting notes will appear in your Google Drive.
+
+PS: There is a sample output docx file in the output directory
